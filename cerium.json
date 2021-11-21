@@ -1,0 +1,5 @@
+{
+  "entry-point": "index.js",
+  "log-amount": "all",
+  "version": "1.0.0"
+}
